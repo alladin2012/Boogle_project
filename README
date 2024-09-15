@@ -1,0 +1,13 @@
+Welcome to our Mind-Boggling Boggle game!
+Boggle is a board game, where you've got a randomized letters board and you need
+to make as many words as you can. Each word grants a score of square its path!
+
+In our version, we've added Hints^tm:
+Hints will provide you with the starting letters of a max-score word on the board.
+Set your difficulty level to receive hints:
+1. Easy - get half of the word completed
+2. Medium - get third of the word completed
+3. Hard - don't get hints at all
+
+Try to get the best score - your session's High Score^tm will be saved, so try and
+beat your own high score!
